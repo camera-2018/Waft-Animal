@@ -1,0 +1,42 @@
+.warpper {
+  background-color:white;
+  width:100%;
+  height:100%;
+}
+
+.text{
+  color: black;
+}
+
+.btn{
+  position: absolute;
+  right: 1000px;
+  width:20px;
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: absolute;
+  bottom: 20rpx;
+}
+
+#playicon{
+  width:60px;
+  height:60px;
+}
+
+.video {
+  width: 512px;
+  height: 50rpx;
+}
+
+
+#buttons{
+  width: 512px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

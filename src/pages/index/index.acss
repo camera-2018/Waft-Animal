@@ -1,0 +1,49 @@
+.warpper{
+    position:absolute;
+    padding:0;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://s3.bmp.ovh/imgs/2022/03/5223850cb4c3fad6.png');
+}
+img{
+    border-radius: 5%;
+    position:absolute;
+    left:34px;
+    top:190px;
+    width:300px;
+    height:222px;
+}
+#name{
+    position:absolute;
+    left:30px;
+    top:30px;
+    font-size:30px;
+    font-weight:medium;
+    color:black;
+}
+#contentbox{
+    position:absolute;
+    left:400px;
+    top:190px;
+    width:500px;
+    height:100px;
+}
+#content{
+    position:absolute;
+    font-size:20px;
+    font-weight:medium;
+    color:black;
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 20rpx;
+}
+

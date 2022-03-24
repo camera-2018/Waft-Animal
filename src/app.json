@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/index"
+  ],
+  "default": "pages/index/index",
+  "window": {
+    "defaultTitle": "Waft Animals"
+  },
+  "viewport":{
+    "width": 1024,
+    "height": 600,
+    "scaleMode": "fixedHeight"
+  }
+}

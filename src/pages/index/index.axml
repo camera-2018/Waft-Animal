@@ -1,0 +1,17 @@
+<div class="warpper">
+  <div id="name">{{data[0].name}}</div>
+  <view id="contentbox">
+    <div id="content">{{data[0].content}}</div>
+  </view>
+  <view id="imgs">
+    <img src="{{(data[0].images)[0].url}}" alt="{{data[0].name}}" class="img">
+  </view> 
+  <view class="footer">
+    <view style="display: flex;flex-direction: row;justify-content: center;margin-top: 20rpx;">
+      <x-button >大象的声音</x-button>
+      <x-button onTap="toDetail">海豚的声音</x-button>
+    </view>
+  </view>
+</div>
+
+

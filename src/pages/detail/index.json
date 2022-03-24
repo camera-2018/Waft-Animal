@@ -1,0 +1,145 @@
+{
+  "usingComponents": {
+    "x-footer": "waft-ui/assembly/footer/footer",
+    "x-button": "waft-ui/assembly/button/button"
+  },
+  "state": {
+    "src": "https://entityimg.alicdn.com/kgsearch/audio/k4mjrigk.mp3",
+    "isplay": true,
+    "play":"https://api.iconify.design/ic:baseline-play-circle.svg?color=%23ffbb00",
+    "pause":"https://api.iconify.design/ic:baseline-pause-circle.svg?color=%23ffbb00",
+    "data": [{
+        "name": "大象",
+        "audios": "https://entityimg.alicdn.com/kgsearch/audio/audio_museum/20220118105803f_k4mk2x1q.mp3",
+        "images": [{
+            "url": "http://entityimg.alicdn.com/kg/95676534/f7b667e2fb37bbe1.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/95676534/120930d994857b52.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/94380080/7bf7843577265274.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/103887758/1da9e32665ae3f35.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/95676534/193c828a14e49d7d.jpg"
+          }
+        ],
+        "content": " 据史料记载，大象很早就成了人类的朋友，并能为人类提供帮助。大象非常聪明，能开辟场地，还能把死去的同伴安埋在落叶枯枝之中。大象寿命很长，一般能活到70岁左右，它在10岁到15岁性成熟，怀孕期长达22个月。大象分布极广，大约在四千万年以前，除了大洋洲和南极洲以外，各洲都有它的足迹，然而现在主要有亚洲象和非洲象两大类。 [1] 2020年5月至6月，博茨瓦纳奥卡万戈三角洲，数百头大象因不明原因死亡。国家公园救援联合创始人马克·希利称这次大象死亡事件为“本世纪影响大象的最大灾难之一”。"
+      },
+      {
+        "name": "长颈鹿",
+        "audios": "https://entityimg.alicdn.com/kgsearch/audio/audio_museum/20220118105759f_k4mijtjb.mp3",
+        "images": [{
+            "url": "http://entityimg.alicdn.com/kg/102843225/5857e2fd3cf88b9d.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/102843225/5857e2fd3cf88b9d.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/102843225/83b36ea76855eec5.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/102843225/cdcb5ac586bb99d6.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/102843225/64fcca758c64c806.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/102843225/ca0d41e3fceb9061.jpg"
+          }
+        ],
+        "content": "长颈鹿:是一种生长在非洲的反刍偶蹄动物、拉丁文名字的意思是\"长着豹纹的骆驼\"。它们是世界上现存最高的陆生动物。站立时由头至脚可达6-8米、体重约700千克、刚出生的幼仔就有1.5米高；皮毛颜色花纹有斑点和网纹型、头的额部宽、吻部较尖、耳大竖立、头顶有1对骨质短角、角外包覆皮肤和茸毛；颈特别长、颈背有1行鬃毛；体较短；四肢高而强健、前肢略长于后肢、蹄阔大；尾短小、尾端为黑色簇毛。牙齿为原始的低冠齿、不能以草为主食、只能以树叶为主食；舌较长、可以用于取食；具短角、角上被有毛的皮肤覆盖。生活于非洲稀树草原地带、是草食动物、以树叶及小树枝为主食。"
+      },
+      {
+        "name": "斑马",
+        "audios": "https://entityimg.alicdn.com/kgsearch/audio/audio_museum/20220118105753f_k4mijtfz.mp3",
+        "images": [{
+            "url": "http://entityimg.alicdn.com/kg/97935326/ce3d312ad255e415.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/97935326/ce3d312ad255e415.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/97935326/e868774325e18296.jpg"
+          }
+        ],
+        "content": "斑马:是现存的奇蹄目马科马属3种兽类的通称。因身上有起保护作用的斑纹而得名。没有任何动物比斑马的皮毛更与众不同。斑马周身的条纹和人类的指纹一样——没有任何两头完全相同。斑马为非洲特产。非洲东部、中部和南部产平原斑马,由腿至蹄具条纹或腿部无条纹。东非还产一种格式斑马,体格最大,耳长而宽,全身条纹窄而密,因而又名细纹斑马。南非洲产山斑马,与其它两种斑马不同的是,它有一对象驴似的大长耳朵。除腹部外,全身密布较宽的黑条纹,雄体喉部有垂肉。斑马是草食性动物。除了草之外,灌木、树枝、树叶甚至树皮也是它们的食物。适应能力较强的消化系统,令斑马可以在低营养条件下生存,比其他草食性动物优胜。"
+      },
+      {
+        "name": "海豚",
+        "audios": "https://entityimg.alicdn.com/kgsearch/audio/k4mjrigk.mp3",
+        "images": [{
+            "url": "http://entityimg.alicdn.com/kg/101215773/f4a2f177794aa0fe.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/101215773/f4a2f177794aa0fe.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/101215773/1bebd17446d7f068.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/101215773/d693cfd0c7000ecf.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/101215773/52e1cbd2533e6016.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/101215773/53fe5bda250f29c5.jpg"
+          }
+        ],
+        "content": "海豚具有齿鲸类典型的形态学性状:纺锤形的身体;单个新月形的呼吸孔;头骨套叠,上颌骨向后扩展与额骨重叠;颅顶偏左的不对称;圆锥形或钉状的齿等。各种间最明显的变异与喙、上下颌、牙齿等摄食器官有关。喙的长短和大小,牙齿的多少和大小,反映了不同物种所占有的生态位的范围。如牙齿总数从仅10枚左右到共有250枚。外形也呈大幅度的变异。只有少数种类如虎鲸和领航鲸为显著性二型,更多种类则可为身体大小、形状、颜色,和背鳍形状的轻微性二型。身体大小从小于1.5米到超过9米。喙的变异自很长到很短,还有几个属完全无喙。"
+      },
+      {
+        "name": "喜鹊",
+        "audios": "https://entityimg.alicdn.com/kgsearch/audio/audio_museum/20220118105822f_k4mk2x3g.mp3",
+        "images": [{
+            "url": "http://entityimg.alicdn.com/kg/94893804/386a11b2f69becf1.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/94893804/386a11b2f69becf1.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/94893804/2655befab051ea2b.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/94893804/a19db9ed8888dbf3.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/94893804/f62d6e61f11729d9.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/94893804/a9284df8ae39e3af.jpg"
+          }
+        ],
+        "content": "喜鹊是鸟纲鸦科的一种鸟类。共有10个亚种。体长40-50厘米，雌雄羽色相似，头、颈、背至尾均为黑色，并自前往后分别呈现紫色、绿蓝色、绿色等光泽，双翅黑色而在翼肩有一大形白斑，尾远较翅长，呈楔形，嘴、腿、脚纯黑色，腹面以胸为界，前黑后白。留鸟。栖息地多样，常出没于人类活动地区，喜欢将巢筑在民宅旁的大树上。全年大多成对生活，杂食性，在旷野和田间觅食，繁殖期捕食昆虫、蛙类等小型动物，也盗食其他鸟类的卵和雏鸟，兼食瓜果、谷物、植物种子等。每窝产卵5-8枚。卵淡褐色，布褐色、灰褐色斑点。雌鸟孵卵，孵化期18天左右，1个月左右离巢。除南美洲、大洋洲与南极洲外，几乎遍布世界各大陆。中国有4个亚种，见于除草原和荒漠地区外的全国各地。"
+      },
+      {
+        "name": "青蛙",
+        "audios": "https://entityimg.alicdn.com/kgsearch/audio/audio_museum/20220118105815f_k4mk2x2x.mp3",
+        "images": [{
+            "url": "http://entityimg.alicdn.com/kg/104004624/c02663e889483162.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/104004624/c02663e889483162.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/104004624/3e4f47643dceaece.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/104004624/1a9a2599485249f5.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/104004624/325fe2bcc056a2d2.jpg"
+          },
+          {
+            "url": "http://entityimg.alicdn.com/kg/104004624/a710a48f7335b0b2.jpg"
+          }
+        ],
+        "content": "青蛙属于脊索动物门、两栖纲、无尾目、蛙科的两栖类动物,成体无尾,卵产于水中,体外受精,孵化成蝌蚪,用鳃呼吸,经过变异,成体主要用肺呼吸,兼用皮肤呼吸。绝大部分青蛙通过体外受精繁殖,受精卵在母体外孵化成蝌蚪。全球只有10至12种青蛙进化至体内受精,部分会把受精卵排出体外孵化成蝌蚪。但青蛙在动物学上特指的是黑斑侧褶蛙。青蛙一向被认为是卵生动物,不过科学家发现,一种生活在印度尼西亚苏拉威西岛雨林的青蛙能够产下蝌蚪。这种青蛙是全球6000多种青蛙中唯一一种能够“下蝌蚪”的青蛙。蛙体型较苗条,多善于游泳。颈部不明显,无肋骨。前肢的尺骨与桡骨愈合,后肢的胫骨与腓骨愈合,因此爪不能灵活转动,但四肢肌肉发达。"
+      }
+    ]
+  }
+}

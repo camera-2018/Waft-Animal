@@ -1,0 +1,24 @@
+<div class="warpper">
+  <view class="btn">
+  <x-button onTap="goBack"><</x-button>
+  </view>
+  <img src="{{(data[3].images)[0].url}}">
+  <view class="footer">
+      
+      <div class="videoWrapper">
+        <video
+          id="animalSound"
+          class="video"
+          controls="{{true}}"
+          src="{{data[3].audios}}"
+        >
+      </div>
+      <!-- <view onTap="sw">
+        <img src="{{ isplay ? play : pause}}" id="playicon">
+      </view> -->
+      <div id="buttons">
+        <x-button onTap="toIndex">大象的介绍</x-button>
+        <x-button>海豚的介绍</x-button>
+      </div>
+  </view>
+</div>
